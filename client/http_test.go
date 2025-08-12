@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/mark3labs/mcp-go/client/transport"
-	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcp-go/server"
+	"github.com/Crescent617/mcp-go/client/transport"
+	"github.com/Crescent617/mcp-go/mcp"
+	"github.com/Crescent617/mcp-go/server"
 )
 
 func TestHTTPClient(t *testing.T) {

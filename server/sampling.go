@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/mark3labs/mcp-go/mcp"
+	"github.com/Crescent617/mcp-go/mcp"
 )
 
 // EnableSampling enables sampling capabilities for the server.

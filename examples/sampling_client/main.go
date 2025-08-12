@@ -8,9 +8,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/mark3labs/mcp-go/client"
-	"github.com/mark3labs/mcp-go/client/transport"
-	"github.com/mark3labs/mcp-go/mcp"
+	"github.com/Crescent617/mcp-go/client"
+	"github.com/Crescent617/mcp-go/client/transport"
+	"github.com/Crescent617/mcp-go/mcp"
 )
 
 // MockSamplingHandler implements the SamplingHandler interface for demonstration.
